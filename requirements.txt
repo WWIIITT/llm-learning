@@ -1,0 +1,14 @@
+torch 
+torchvision 
+torchaudio
+transformers 
+datasets
+scikit-learn 
+pandas 
+numpy 
+matplotlib
+jupyter 
+notebook
+wandb
+gradio
+transformers[torch]
